@@ -2,7 +2,7 @@
 //
 //  ControlPointsView.swift
 //  CollageBuilder
-//
+
 
 import SwiftUI
 
